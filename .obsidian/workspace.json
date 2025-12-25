@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "bff77d99c273632c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ead660634d80327e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e836031ef2c077dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9048e9035b48389b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a537064266c52e03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "650b26c801b669fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a9b52c3baa077a40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7e6e206792f582f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3a6cca0f2a91a5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "617c30dd0f9ee103",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9861cec5a8af4a17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8dcbeb20b558d24f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c48a78aa4c33d48e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "19ab8d06883684dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/Git.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Git"
+            }
+          },
+          {
+            "id": "85d2234d722d562b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "85d2234d722d562b",
+  "lastOpenFiles": [
+    "Linux/Basic command.md",
+    "Linux/Unrar.md",
+    "Git/Git.md",
+    "Linux/Termninal/Terminal basic Command.md",
+    "Python/Syntax Python.md",
+    "Untitled.md",
+    "Git",
+    "Linux/Fedora/Install .Deb file.md",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "Untitled.base",
+    "Linux/Nixos/Flakes & Home Manager.md",
+    "Linux/Nixos",
+    "Linux",
+    "Python",
+    "Linux/ffmpeg/M3u8 Video Playlist Download.md",
+    "Linux/Termninal",
+    "ffmpeg/gsg.md",
+    "Linux/ffmpeg/Pasted image 20251111002425.png",
+    "Linux/ffmpeg/Pasted image 20251111002237.png",
+    "Linux/ffmpeg",
+    "Linux/Fedora/Fedora Upgrade Standalone.md",
+    "Linux/Fedora/Pasted image 20251104223232.png",
+    "Linux/Fedora/Pasted image 20251104222604.png",
+    "Pasted image 20251104222439.png",
+    "Pasted image 20251104222452.png",
+    "Linux/Fedora"
+  ]
+}
