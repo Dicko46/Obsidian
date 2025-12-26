@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git.md",
+                "file": "Linux/Plasma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Plasma"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "e836031ef2c077dc",
   "lastOpenFiles": [
-    "Linux/Basic command.md",
     "Linux/Unrar.md",
+    "Linux/Plasma.md",
+    "Linux/Basic command.md",
     "Git/Git.md",
     "Linux/Termninal/Terminal basic Command.md",
     "Python/Syntax Python.md",
