@@ -6,18 +6,15 @@ Pertama buat repo terlebih dahulu di folder yang sudah ditentukan
 git init
 ```
 
-Masukkan username dan email github (global)
+Masukkan username dan email github (global/local)
 
 ```bash
-git config --global user.email "example@example.com"
-git config --global user.name "Dicko46" 
-```
-
-Menambahkan user dan email (bukan global)
-
-```bash
-git config user.name "nama"
-git config user.email "example@example.com"
+git config --global user.email "example@example.com" # Membuat useremail secara global
+git config --global user.name "Dicko46" # Membuat username secara global
+git config --local user.email "example@example.com" # Membuat useremail secara local
+git config --local user.name "Dicko46" # Membuat username secara local
+git config --global --list # Menampilkan semua username/useremail pada global
+git config --local --list # Menampilkan semua username/useremail pada local
 ```
 
 Merubah warna ui git secara menyeluruh dengan otomatis
@@ -69,13 +66,14 @@ nothing added to commit but untracked files present (use "git add" to track)
 Index php (Untracked files) masuk dalam kategori modified dan belumm masuk ke fase staged, jadi untuk masuk ke fase selanjutnya lakukan :
 
 ```bash
-git add index.php
+git add index.php # Menambahkan index.php ke staged
 ```
 
 Untuk unstage file
 
 ```bash
-git rm --cached nama file
+git restore --staged namafile
+git rm --cached namafile
 ```
 
 setelah melakukan ini, index.php akan menjadi newfile dan sudah masuk fase staged.
@@ -97,7 +95,8 @@ git log namafile # Untuk melihat commit apa saja yang sudah dirubah didalam file
 untuk melihat perubahan pada file
 
 ```bash
-git diff
+git diff # melihat perubahan secara global
+git diff --staged # Melihat perubahan pada staged
 git diff namafile # Melihan perubahan sesuai nama file
 ```
 
