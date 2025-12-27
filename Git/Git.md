@@ -80,7 +80,7 @@ setelah melakukan ini, index.php akan menjadi newfile dan sudah masuk fase stage
 Selanjutnya adalah menambahkan commit (Pesan penanda) pada code yang sudah dibuat (staged)
 
 ```bash
-git commit -m "commit"
+git commit -m "commit" # -m "memungkinkan Anda memberikan pesan commit secara langsung. Selalu cobalah untuk menulis pesan commit yang jelas dan deskriptif! Pesan ini seperti catatan yang menjelaskan apa yang kita ubah dalam snapshot ini."
 ```
 
 untuk cek log commit (save point)
@@ -117,8 +117,13 @@ git revert nomorcommit -n # Merubah semuam file ke nomor commit tertentu (Dan se
 Untuk menambahkan cabang
 
 ```bash
-git branch namacabang
-git checkout namacabang # Untuk pindah ke cabang
+git branch namacabang # Menambahkan branch namacabang
+git branch # untuk melihat list branch dan branch saat ini
+git branch -d namacabang # Untuk delete branch namacabang
+git checkout namacabang # Untuk pindah ke namacabang
+git checkout -b namacabang # Untuk membuat branhc namacabang dan langsung pindah
+git switch namacabang # Untuk pindah ke nama cabang "feature terbaru git sama denga n checkout."
+git switch -c namacabang # Untuk membuat branch namacabang dan langsung pindah
 ```
 
 Untuk menggabungkan cabang ke master

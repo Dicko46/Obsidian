@@ -2,6 +2,7 @@
 
 ```bash
 echo "Hello, Future ME" > message.txt # Membuat message.txt dengan isi "Hello, Future Me"
+echo "isi text" >> message.txt # Menambahkan text pada message.txt tanpa menghapus konten didalamnya
 ```
 
 # 2. Membuat folder
