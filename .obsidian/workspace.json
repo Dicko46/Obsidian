@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Catatan bahasa inggris.md",
+                "file": "Linux/Basic command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Catatan bahasa inggris"
+              "title": "Basic command"
             }
           }
         ]
@@ -180,13 +180,13 @@
   },
   "active": "e836031ef2c077dc",
   "lastOpenFiles": [
-    "Git/Git.md",
-    "English/Catatan bahasa inggris.md",
-    "English",
-    "Linux/Basic command.md",
-    "Linux/ffmpeg/M3u8 Video Playlist Download.md",
-    "Linux/Plasma.md",
     "Linux/Unrar.md",
+    "Linux/Plasma.md",
+    "Linux/Basic command.md",
+    "English/Catatan bahasa inggris.md",
+    "Git/Git.md",
+    "English",
+    "Linux/ffmpeg/M3u8 Video Playlist Download.md",
     "Linux/Termninal/Terminal basic Command.md",
     "Python/Syntax Python.md",
     "Untitled.md",
