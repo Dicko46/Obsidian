@@ -1,0 +1,21 @@
+- `U` mengembalikan line ke kondisi awal
+- `u` untuk undo
+- `x` untuk delete huruf
+- `r` untuk redo
+- `dd` delete seluruh line
+- `d$` delete line dari cursor sampai belakang
+- `2w` 
+- `0` Pindah ke line awal
+- `r(input)` merubah huruf sesuai input
+- `ce` Menghapus kalimat dari awal kursor hingga akhir kalimat dan masuk insert mode
+- `:s/thee/the/` Merubah thee menjadi the pada match pertama
+- `:s/thee/the/g` Merubah thee menjadi the pada semua match
+- `G` pindah ke line terakhir file
+- `gg` pindah ke line awal file
+- `number G` pindah ke line sesuai nomor
+- `o` Menambah line terbuka dibawah cursor
+- `O` Menambah line terbuka diatas cursor
+- `a` Masuk ke insert mode setelah kursor
+- `A` Masuk ke insert mode diakhir line
+- `R` Masuk ke replace mode
+- 
