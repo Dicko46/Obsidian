@@ -11,14 +11,14 @@
             "id": "e836031ef2c077dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Linux/All Fixes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "All Fixes"
             }
           }
         ]
@@ -180,8 +180,10 @@
   },
   "active": "e836031ef2c077dc",
   "lastOpenFiles": [
-    "Linux/NVIM.md",
     "Linux/Basic command.md",
+    "Linux/All Fixes.md",
+    "Linux/Android-tools.md",
+    "Linux/NVIM.md",
     "Git/Git.md",
     "Linux/Unrar.md",
     "Linux/Plasma.md",

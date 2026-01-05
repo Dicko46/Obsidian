@@ -1,0 +1,2 @@
+- `adb devices` Menampilkan devices adb tersedia
+- 
