@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/All Fixes.md",
+                "file": "Linux/Micro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All Fixes"
+              "title": "Micro"
             }
           }
         ]
@@ -181,12 +181,14 @@
   "active": "e836031ef2c077dc",
   "lastOpenFiles": [
     "Linux/Basic command.md",
-    "Linux/All Fixes.md",
     "Linux/Android-tools.md",
-    "Linux/NVIM.md",
-    "Git/Git.md",
-    "Linux/Unrar.md",
+    "Linux/All Fixes.md",
+    "Linux/Micro.md",
     "Linux/Plasma.md",
+    "Linux/NVIM.md",
+    "Linux/Unrar.md",
+    "Linux/Nixos/Flakes & Home Manager.md",
+    "Git/Git.md",
     "English/Catatan bahasa inggris.md",
     "English",
     "Linux/ffmpeg/M3u8 Video Playlist Download.md",
@@ -198,7 +200,6 @@
     "Untitled 1.base",
     "Untitled 2.base",
     "Untitled.base",
-    "Linux/Nixos/Flakes & Home Manager.md",
     "Linux/Nixos",
     "Linux",
     "Python",

@@ -4,6 +4,7 @@
 - `r` untuk redo
 - `dd` delete seluruh line
 - `d$` delete line dari cursor sampai belakang
+- `dw` delete kalimat
 - `2w` 
 - `0` Pindah ke line awal
 - `r(input)` merubah huruf sesuai input

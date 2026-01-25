@@ -191,8 +191,7 @@ home-manager switch --generation13
 
 ### **Multi-Machine Setup**
 
-nix
-
+```nix
 {
   outputs = { self, nixpkgs, ... }@inputs: {
     nixosConfigurations = {
@@ -211,10 +210,11 @@ nix
   };
 }
 
+```
+
 ### **Custom Packages & Overlays**
 
-nix
-
+```nix
 {
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
@@ -242,6 +242,8 @@ nix
     };
 }
 
+```
+
 ## 🛡️ Error Prevention & Best Practices
 
 ### **1. State Version Management**
@@ -254,8 +256,7 @@ home.stateVersion = "23.11";   # Sama dengan system
 
 ### **2. Modular Configuration**
 
-text
-
+```ad-note
 ├── flake.nix
 ├── configuration.nix
 ├── hosts/
@@ -269,6 +270,7 @@ text
     ├── default.nix
     ├── shell.nix
     └── editors.nix
+```
 
 ### **3. Safe Testing Workflow**
 
