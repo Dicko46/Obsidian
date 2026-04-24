@@ -1,10 +1,10 @@
-# 1. Upgrade semua package ke versi terbaru
+### 1. Upgrade semua package ke versi terbaru
 
 ```bash
 sudo dnf upgrade --refresh
 ```
 
-# 2. Download update package untuk versi yang akan digunakan
+### 2. Download update package untuk versi yang akan digunakan
 
 ```bash
 sudo dnf system-upgrade download --releasever=43
@@ -20,7 +20,7 @@ sudo dnf system-upgrade download --releasever=43 --allowerasing
 
 Jika terdapat conflict dengan package pada fedora sebelumnya
 
-# 3. Reboot Upgrade
+### 3. Reboot Upgrade
 
 Setelah selesai download package maka akan tampil perintah untuk
 
@@ -35,3 +35,5 @@ sudo dnf5 offline clean
 ```
 
 Untuk menghapus hasil download package yang dilakukan tadi dan mengcancel upgrade versi fedora
+
+#fedora #upgrade #install

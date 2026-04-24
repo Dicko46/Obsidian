@@ -1,0 +1,2 @@
+- which ffmpeg : melihat path ffmpeg berada
+- ln -s $(which ffmpeg) ~/.xdman/components/ffmpeg : melakukan link ke folder path

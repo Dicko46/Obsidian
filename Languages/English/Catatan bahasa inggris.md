@@ -9,7 +9,7 @@
 **Tom:** **"It's different from Texas."**  
 (Tempat itu [California] berbeda dengan Texas.)
 ```
-**Mengapa Tom bisa melakukan ini?**
+## **Mengapa Tom bisa melakukan ini?**
 
 1. **Topik sudah jelas:** Subjek pembicaraan (California) telah ditetapkan dalam pertanyaan.
 2. **Prinsip kehematan berbahasa:** Tidak perlu mengulang kata benda yang sudah diketahui.

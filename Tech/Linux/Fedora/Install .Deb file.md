@@ -2,7 +2,7 @@
 ---
 Download files deb dan buat folder yang sesuai dengan package yang akan diinstal
 
-```ad-hint
+```ad-example
 1. freedownloadmanager.deb
 2. buat folder dengan nama **freedownloadmanager** agar mudah dipahami
 ```
@@ -62,5 +62,5 @@ sudo update-desktop-database
 
 Perintah `sudo update-desktop-database` berfungsi untuk memperbarui database cache yang berisi informasi tentang tipe MIME yang didukung oleh file desktop (*.desktop) di Linux. File desktop ini biasanya berisi informasi tentang aplikasi dan jenis file yang bisa dibuka oleh aplikasi tersebut.
 
-#debinstall #tar
+#debinstall #tar #fedora #install
 
